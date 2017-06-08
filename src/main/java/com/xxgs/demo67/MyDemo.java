@@ -2,7 +2,7 @@ package com.xxgs.demo67;
 
 public class MyDemo {
 	// ×Ö·û
-	byte byt;
+	byte  byt;
 	char cha;
 
 	// Êý×Ö
